@@ -1,3 +1,3 @@
 # This is a simple helloworld script
 
-print("HelloWorld!")
+print("Hello My World!")
